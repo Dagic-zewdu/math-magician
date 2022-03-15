@@ -17,11 +17,60 @@ body {
 }
 
 code {
-  font-family:
-    source-code-pro,
-    Menlo,
-    Monaco,
-    Consolas,
-    'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+}
+
+.display-number {
+  min-height: 30px;
+  background-color: rgb(146, 155, 184);
+  width: 50%;
+  padding: 10px;
+}
+
+.float-right {
+  float: right;
+}
+
+.white {
+  color: white;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.numbers-container {
+  display: flex;
+  width: 51.4%;
+}
+
+.number-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: #eee;
+  border: 0.1px solid rgb(125, 125, 125);
+}
+
+.orange {
+  background-color: orange;
+}
+
+.flex-2 {
+  flex: 2;
 }
