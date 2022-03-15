@@ -17,10 +17,6 @@
 - npm
 - webpack
 
-## Live Demo
-
-[Live Demo Link](https://dagic-zewdu.github.io/math-magician/)
-
 ### Prerequisites
 
 The basic requirements for building the executable are:
