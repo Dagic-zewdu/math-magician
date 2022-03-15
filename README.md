@@ -1,10 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Title
+# Math Magicians
 
-> Project description paragraph with 30 words. 
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
-![screenshot]()
+- Make simple calculations.
+- Read a random math-related quote.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -73,7 +75,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 #### Cloning the project
 
 ```
-git clone https://github.com/your_url
+git clone https://github.com/Dagic-zewdu/math-magician.git
 ```
 
 ## Getting packages and debuging with Stylelint
@@ -142,4 +144,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
