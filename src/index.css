@@ -10,11 +10,13 @@ body {
   align-content: center;
   min-height: 100vh;
 }
+
 .calc-container {
   display: flex;
   flex-direction: column;
   width: 25%;
 }
+
 .display-number {
   min-height: 30px;
   background-color: rgb(146, 155, 184);
