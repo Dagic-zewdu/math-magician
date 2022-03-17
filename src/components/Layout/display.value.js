@@ -1,6 +1,5 @@
 import React from 'react';
 
-// eslint-disable-next-line react/prefer-stateless-function
 const Display = ({ next = '', operation = '', total = null }) => (
   <div
     className="g-item gray"
