@@ -15,7 +15,6 @@ const Calculator = () => {
     ));
   };
   const { total, next, operation } = state;
-  console.log(state);
   return (
     <div className="container">
       <div className="d-grid gray">
