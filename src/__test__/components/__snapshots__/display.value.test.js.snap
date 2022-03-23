@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without problems should render the calculator 1`] = `
+<div
+  className="g-item gray"
+  style={
+    Object {
+      "fontSize": "4rem",
+      "gridColumn": "1/5",
+      "justifyContent": "flex-end",
+    }
+  }
+>
+  1
+</div>
+`;
+
+exports[`should render without problems should render the display calculator 1`] = `
+<div
+  className="g-item gray"
+  style={
+    Object {
+      "fontSize": "4rem",
+      "gridColumn": "1/5",
+      "justifyContent": "flex-end",
+    }
+  }
+>
+  1
+</div>
+`;
