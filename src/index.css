@@ -1,6 +1,6 @@
 
 body {
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .container {
@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex:2;
+  flex: 2;
 }
 
 .d-grid {
@@ -59,7 +59,7 @@ a {
   color: black;
 }
 
-a.active{
+a.active {
   text-decoration: none;
   color: red;
 }
