@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dagic-zewdu/math-magician/static/css/main.c4da355d.css",
+    "main.js": "/Dagic-zewdu/math-magician/static/js/main.863a446e.js",
+    "index.html": "/Dagic-zewdu/math-magician/index.html",
+    "main.c4da355d.css.map": "/Dagic-zewdu/math-magician/static/css/main.c4da355d.css.map",
+    "main.863a446e.js.map": "/Dagic-zewdu/math-magician/static/js/main.863a446e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4da355d.css",
+    "static/js/main.863a446e.js"
+  ]
+}
