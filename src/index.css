@@ -1,14 +1,19 @@
+
+body {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 95vh;
+  flex:2;
 }
 
 .d-grid {
   display: grid;
-  width: 40%;
+  width: 80%;
   grid-template-columns: repeat(4, 1fr);
   row-gap: 1px;
   column-gap: 1px;
@@ -47,4 +52,14 @@
 .orange {
   background-color: orange;
   color: rgb(92, 92, 92);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a.active{
+  text-decoration: none;
+  color: red;
 }
